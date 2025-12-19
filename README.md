@@ -26,6 +26,7 @@
 
 - Python 3.11+
 - کتابخانه‌های مورد نیاز
-rubpy == 7.1.23
+
   ```bash
-  pip install rubika-api asyncio
+  pip install rubpy == 7.1.23
+```
